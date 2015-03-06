@@ -49,6 +49,9 @@ GEM
     ruboty-hipchat (0.1.6)
       ruboty
       xrc (>= 0.1.1)
+    ruboty-qanda (0.0.1)
+      faraday
+      ruboty
     ruboty-redis (0.0.5)
       redis
       redis-namespace
@@ -72,5 +75,6 @@ DEPENDENCIES
   ruboty-cron
   ruboty-google_image
   ruboty-hipchat
+  ruboty-qanda
   ruboty-redis
   ruboty-talk

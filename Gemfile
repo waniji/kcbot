@@ -7,4 +7,4 @@ gem "ruboty-alias"
 gem "ruboty-cron"
 gem "ruboty-google_image"
 gem "ruboty-talk"
-
+gem "ruboty-qanda"
