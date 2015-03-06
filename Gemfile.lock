@@ -57,6 +57,10 @@ GEM
     ruboty-kokodeikku (0.0.8)
       ikku (>= 0.1.1)
       ruboty
+    ruboty-lgtm (0.0.3)
+      faraday
+      faraday_middleware
+      ruboty
     ruboty-qanda (0.0.1)
       faraday
       ruboty
@@ -86,6 +90,7 @@ DEPENDENCIES
   ruboty-google_image
   ruboty-hipchat
   ruboty-kokodeikku
+  ruboty-lgtm
   ruboty-qanda
   ruboty-redis
   ruboty-reminder
