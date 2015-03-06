@@ -9,6 +9,13 @@ GEM
       tzinfo (~> 1.1)
     chrono (0.0.4)
       activesupport
+    docomoru (0.1.1)
+      activesupport
+      faraday
+      faraday_middleware
+      json
+      rack
+      slop
     dotenv (2.0.0)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
@@ -19,6 +26,7 @@ GEM
     mem (0.1.5)
     minitest (5.5.1)
     multipart-post (2.0.0)
+    rack (1.6.0)
     redis (3.2.1)
     redis-namespace (1.5.1)
       redis (~> 3.0, >= 3.0.4)
@@ -45,6 +53,9 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-talk (0.0.4)
+      docomoru (>= 0.0.3)
+      ruboty (>= 1.1.0)
     slop (4.0.0)
     thread_safe (0.3.4)
     tzinfo (1.2.2)
@@ -62,3 +73,4 @@ DEPENDENCIES
   ruboty-google_image
   ruboty-hipchat
   ruboty-redis
+  ruboty-talk
