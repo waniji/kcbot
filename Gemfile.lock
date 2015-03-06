@@ -56,6 +56,8 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-reminder (0.2.0)
+      ruboty
     ruboty-talk (0.0.4)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
@@ -77,4 +79,5 @@ DEPENDENCIES
   ruboty-hipchat
   ruboty-qanda
   ruboty-redis
+  ruboty-reminder
   ruboty-talk
