@@ -14,3 +14,4 @@ gem "ruboty-kokodeikku"
 gem "ruboty-lgtm"
 gem "ruboty-japan_weather"
 gem 'ruboty-moromizato'
+gem 'ruboty-youtube'
