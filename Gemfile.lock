@@ -70,6 +70,8 @@ GEM
       faraday
       faraday_middleware
       ruboty
+    ruboty-moromizato (1.0.0)
+      ruboty
     ruboty-qanda (0.0.1)
       faraday
       ruboty
@@ -107,6 +109,7 @@ DEPENDENCIES
   ruboty-japan_weather
   ruboty-kokodeikku
   ruboty-lgtm
+  ruboty-moromizato
   ruboty-qanda
   ruboty-redis
   ruboty-reminder

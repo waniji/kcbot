@@ -13,3 +13,4 @@ gem "ruboty-reminder"
 gem "ruboty-kokodeikku"
 gem "ruboty-lgtm"
 gem "ruboty-japan_weather"
+gem 'ruboty-moromizato'
