@@ -9,7 +9,9 @@ gem "ruboty-echo"
 gem "ruboty-google_image"
 gem "ruboty-talk"
 gem "ruboty-qanda"
-gem "ruboty-reminder"
+gem "ruboty-reminder",
+  :git => 'https://github.com/waniji/ruboty-reminder',
+  :branch => 'test'
 gem "ruboty-kokodeikku"
 gem "ruboty-lgtm"
 gem "ruboty-japan_weather"

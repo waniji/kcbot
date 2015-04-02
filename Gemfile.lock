@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/waniji/ruboty-reminder
+  revision: 0f72e700f792eb1445b9da34598672855462a990
+  branch: test
+  specs:
+    ruboty-reminder (0.2.0)
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -96,8 +104,6 @@ GEM
       redis
       redis-namespace
       ruboty
-    ruboty-reminder (0.2.0)
-      ruboty
     ruboty-talk (0.0.5)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
@@ -137,6 +143,6 @@ DEPENDENCIES
   ruboty-moromizato
   ruboty-qanda
   ruboty-redis
-  ruboty-reminder
+  ruboty-reminder!
   ruboty-talk
   ruboty-youtube
