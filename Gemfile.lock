@@ -97,6 +97,8 @@ GEM
       ruboty
     ruboty-moromizato (1.0.0)
       ruboty
+    ruboty-niconico (0.0.1)
+      ruboty
     ruboty-qanda (0.0.1)
       faraday
       ruboty
@@ -141,6 +143,7 @@ DEPENDENCIES
   ruboty-kokodeikku
   ruboty-lgtm
   ruboty-moromizato
+  ruboty-niconico
   ruboty-qanda
   ruboty-redis
   ruboty-reminder!
