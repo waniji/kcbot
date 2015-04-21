@@ -18,3 +18,4 @@ gem "ruboty-japan_weather"
 gem 'ruboty-moromizato'
 gem 'ruboty-youtube'
 gem 'ruboty-niconico'
+gem 'ruboty-kendama'
